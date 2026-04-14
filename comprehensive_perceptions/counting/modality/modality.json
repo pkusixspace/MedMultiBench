@@ -1,0 +1,977 @@
+[
+    {
+        "id": "comprehensive_perceptions-counting-modality_1",
+        "type": "modality",
+        "question": "How many of the following pictures are Fundus Photography modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_1.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_2.jpeg"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 0,
+            "B": 4,
+            "C": 1,
+            "D": 2
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_2",
+        "type": "modality",
+        "question": "How many of the following pictures are Fundus Photography modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_3.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_4.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_5.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 1,
+            "C": 3,
+            "D": 0
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_3",
+        "type": "modality",
+        "question": "How many of the following pictures are Fundus Photography modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_6.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_7.jpg"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 4,
+            "B": 2,
+            "C": 1,
+            "D": 0
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_4",
+        "type": "modality",
+        "question": "How many of the following pictures are OCT (Optical Coherence Tomography modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_8.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_9.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_10.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_11.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 1,
+            "C": 3,
+            "D": 4
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_5",
+        "type": "modality",
+        "question": "How many of the following pictures are OCT (Optical Coherence Tomography modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_12.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_13.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_14.jpg"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 2
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_6",
+        "type": "modality",
+        "question": "How many of the following pictures are OCT (Optical Coherence Tomography modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_15.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_16.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_17.png"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 3,
+            "B": 2,
+            "C": 0,
+            "D": 1
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_7",
+        "type": "modality",
+        "question": "How many of the following pictures are X-Ray modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_18.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_19.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_20.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_21.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 4,
+            "B": 0,
+            "C": 2,
+            "D": 1
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_8",
+        "type": "modality",
+        "question": "How many of the following pictures are X-Ray modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_22.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_23.png"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 1,
+            "B": 2,
+            "C": 0,
+            "D": 4
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_9",
+        "type": "modality",
+        "question": "How many of the following pictures are X-Ray modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_24.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_25.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_26.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_27.jpeg"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 4,
+            "B": 2,
+            "C": 0,
+            "D": 3
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_10",
+        "type": "modality",
+        "question": "How many of the following pictures are Microscopy Images modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_28.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_29.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_30.tif"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 3,
+            "B": 2,
+            "C": 1,
+            "D": 0
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_11",
+        "type": "modality",
+        "question": "How many of the following pictures are Microscopy Images modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_31.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_32.tif"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 1,
+            "B": 0,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_12",
+        "type": "modality",
+        "question": "How many of the following pictures are Microscopy Images modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_33.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_34.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_35.tif"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 3,
+            "C": 2,
+            "D": 0
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_13",
+        "type": "modality",
+        "question": "How many of the following pictures are CT(Computed Tomography) modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_36.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_37.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_38.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 0,
+            "C": 1,
+            "D": 3
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_14",
+        "type": "modality",
+        "question": "How many of the following pictures are CT(Computed Tomography) modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_39.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_40.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_41.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_42.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 4,
+            "C": 3,
+            "D": 2
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_15",
+        "type": "modality",
+        "question": "How many of the following pictures are CT(Computed Tomography) modality? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_43.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_44.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_45.png"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 2,
+            "B": 1,
+            "C": 0,
+            "D": 3
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_16",
+        "type": "modality",
+        "question": "How many of the following pictures are Dermoscopy modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_46.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_47.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_48.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_49.png"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 3,
+            "B": 2,
+            "C": 0,
+            "D": 1
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_17",
+        "type": "modality",
+        "question": "How many of the following pictures are Dermoscopy modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_50.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_51.jpeg"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 2,
+            "B": 1,
+            "C": 0,
+            "D": 4
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_18",
+        "type": "modality",
+        "question": "How many of the following pictures are Dermoscopy modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_52.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_53.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_54.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_55.jpg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 4,
+            "C": 0,
+            "D": 2
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_19",
+        "type": "modality",
+        "question": "How many of the following pictures are ultrasound modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_56.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_57.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_58.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_59.png"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 3
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_20",
+        "type": "modality",
+        "question": "How many of the following pictures are ultrasound modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_60.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_61.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_62.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_63.png"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 0,
+            "B": 4,
+            "C": 3,
+            "D": 1
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_21",
+        "type": "modality",
+        "question": "How many of the following pictures are ultrasound modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_64.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_65.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_66.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_67.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 4,
+            "C": 3,
+            "D": 1
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_22",
+        "type": "modality",
+        "question": "How many of the following pictures are MR (Mag-netic Resonance Imaging) modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_68.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_69.png"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 0,
+            "B": 1,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_23",
+        "type": "modality",
+        "question": "How many of the following pictures are MR (Mag-netic Resonance Imaging) modality? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_70.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_71.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_72.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_73.png"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 2,
+            "B": 3,
+            "C": 1,
+            "D": 0
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_24",
+        "type": "modality",
+        "question": "How many of the following pictures are MR (Mag-netic Resonance Imaging) modality? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_74.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_75.png"
+        ],
+        "gt_answer_num": "1",
+        "options": {
+            "A": 1,
+            "B": 4,
+            "C": 0,
+            "D": 2
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_25",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_76.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_77.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 1
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_26",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_78.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_79.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_46.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_80.jpeg"
+        ],
+        "gt_answer_num": "4",
+        "options": {
+            "A": 1,
+            "B": 3,
+            "C": 0,
+            "D": 4
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_27",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_81.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_82.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_83.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_84.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 3,
+            "B": 0,
+            "C": 2,
+            "D": 1
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_28",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_85.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_86.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 4,
+            "C": 2,
+            "D": 0
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_29",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_87.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_88.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 4
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_30",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_89.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_90.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_91.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_92.png"
+        ],
+        "gt_answer_num": "4",
+        "options": {
+            "A": 4,
+            "B": 1,
+            "C": 0,
+            "D": 2
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_31",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_14.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_93.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_94.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_95.tif"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 2,
+            "B": 0,
+            "C": 1,
+            "D": 3
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_32",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_96.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_97.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 1,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_33",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_98.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_99.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_100.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_101.jpg"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 3,
+            "B": 0,
+            "C": 1,
+            "D": 4
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_34",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_28.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_102.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_103.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_47.jpg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 0,
+            "C": 4,
+            "D": 3
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_35",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_104.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_105.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_106.tif"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 1,
+            "B": 2,
+            "C": 0,
+            "D": 3
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_36",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_107.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_108.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 1,
+            "C": 4,
+            "D": 0
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_37",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_109.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_110.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_74.png"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 3,
+            "B": 2,
+            "C": 0,
+            "D": 1
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_38",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_111.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_112.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_113.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 0,
+            "C": 3,
+            "D": 1
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_39",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_114.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_115.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 1
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_40",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_116.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_117.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 2,
+            "B": 4,
+            "C": 0,
+            "D": 1
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_41",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_118.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_119.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_120.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_121.tif"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 3
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_42",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_122.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_123.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_124.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_125.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 3,
+            "B": 2,
+            "C": 4,
+            "D": 0
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_43",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_126.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_127.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 1
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_44",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_128.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_129.jpg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 4
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_45",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_130.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_131.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_132.jpg"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 1,
+            "B": 0,
+            "C": 3,
+            "D": 2
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_46",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_33.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_133.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_134.jpg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 2,
+            "C": 3,
+            "D": 1
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_47",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_135.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_136.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_137.tif",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_138.png"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 1,
+            "B": 3,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_48",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_139.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_140.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_42.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_141.png"
+        ],
+        "gt_answer_num": "4",
+        "options": {
+            "A": 3,
+            "B": 1,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "C"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_49",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_142.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_143.jpg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 0,
+            "B": 1,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_50",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_144.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_145.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_146.jpeg"
+        ],
+        "gt_answer_num": "3",
+        "options": {
+            "A": 3,
+            "B": 1,
+            "C": 0,
+            "D": 2
+        },
+        "gt_answer": "A"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_51",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_147.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_148.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 4,
+            "C": 0,
+            "D": 2
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_52",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_149.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_150.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_151.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_152.png"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 2,
+            "C": 3,
+            "D": 0
+        },
+        "gt_answer": "B"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_53",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image><image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_153.jpeg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_154.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_155.jpg",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_156.jpeg"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 0,
+            "C": 4,
+            "D": 2
+        },
+        "gt_answer": "D"
+    },
+    {
+        "id": "comprehensive_perceptions-counting-modality_54",
+        "type": "modality",
+        "question": "How many modalities appear in the following pictures? <image><image>",
+        "images": [
+            "comprehensive_perceptions/counting/modality/images/counting_modality_157.png",
+            "comprehensive_perceptions/counting/modality/images/counting_modality_158.tif"
+        ],
+        "gt_answer_num": "2",
+        "options": {
+            "A": 1,
+            "B": 2,
+            "C": 0,
+            "D": 4
+        },
+        "gt_answer": "B"
+    }
+]

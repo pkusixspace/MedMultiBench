@@ -1,0 +1,1306 @@
+[
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_1",
+        "question": "View the images provided. What organ is displayed in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_1.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_2.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "stomach",
+            "B": "adrenal gland",
+            "C": "pancreas",
+            "D": "esophagus"
+        },
+        "category": "adrenal gland",
+        "modality": [
+            "CT",
+            "MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_2",
+        "question": "View the images provided. What organ is displayed in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_3.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_4.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "spleen",
+            "B": "kidney",
+            "C": "stomach",
+            "D": "pancreas"
+        },
+        "category": "stomach",
+        "modality": [
+            "CT",
+            "MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_3",
+        "question": "Please determine which option best matches the content displayed in the images.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_5.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_6.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "adrenal gland",
+            "B": "spleen",
+            "C": "kidney",
+            "D": "pancreas",
+            "E": "stomach"
+        },
+        "category": "pancreas",
+        "modality": [
+            "CT",
+            "UltraSound"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_4",
+        "question": "Please identify which of the following options the contents shown in the provided images belong to?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_7.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_8.png"
+        ],
+        "gt_answer": "E",
+        "option": {
+            "A": "kidney",
+            "B": "sigmoid colon",
+            "C": "adrenal gland",
+            "D": "spinal cord",
+            "E": "gallbladder"
+        },
+        "category": "gallbladder",
+        "modality": [
+            "CT",
+            "UltraSound"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_5",
+        "question": "View the images provided. Which option corresponds most accurately to the organ marked?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_9.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_10.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "kidney",
+            "B": "adrenal gland",
+            "C": "gallbladder",
+            "D": "spleen"
+        },
+        "category": "gallbladder",
+        "modality": [
+            "CT",
+            "Endoscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_6",
+        "question": "View the images provided. What organ is displayed in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_11.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_12.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "kidney",
+            "B": "thyroid",
+            "C": "gallbladder",
+            "D": "pancreas"
+        },
+        "category": "gallbladder",
+        "modality": [
+            "UltraSound",
+            "Endoscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_7",
+        "question": "View the marked areas in the provided images. Which option would be the most organ-like?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_13.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_14.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "spleen",
+            "B": "liver",
+            "C": "kidney",
+            "D": "stomach"
+        },
+        "category": "spleen",
+        "modality": [
+            "T1 weighted MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_8",
+        "question": "Please determine which option corresponds most accurately to the organs visible in the images.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_15.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_16.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "duodenum",
+            "B": "gallbladder",
+            "C": "spleen",
+            "D": "adrenal gland",
+            "E": "small intestine"
+        },
+        "category": "spleen",
+        "modality": [
+            "T1 weighted MRI",
+            "UltraSound"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_9",
+        "question": "View the images provided. Which option corresponds most accurately to the organ displayed in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_17.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_18.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "pancreas",
+            "B": "stomach",
+            "C": "spinal cord",
+            "D": "duodenum",
+            "E": "spleen"
+        },
+        "category": "duodenum",
+        "modality": [
+            "MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_10",
+        "question": "View the marked areas in the provided images. Which organ is most likely depicted?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_19.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_20.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "spleen",
+            "B": "gallbladder",
+            "C": "small intestine",
+            "D": "esophagus",
+            "E": "kidney"
+        },
+        "category": "small intestine",
+        "modality": [
+            "CT",
+            "MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_11",
+        "question": "Considering the organs visible in the images, which option corresponds most accurately to the marked areas?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_21.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_22.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "spleen",
+            "B": "stomach",
+            "C": "pancreas",
+            "D": "small intestine",
+            "E": "adrenal gland"
+        },
+        "category": "small intestine",
+        "modality": [
+            "CT",
+            "Endoscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_12",
+        "question": "View the images provided. What organ is displayed in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_23.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_24.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "small intestine",
+            "B": "colonoscopy tissue",
+            "C": "heart",
+            "D": "lung",
+            "E": "fascia covered kidney parenchyma"
+        },
+        "category": "small intestine",
+        "modality": [
+            "MRI",
+            "Endoscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_13",
+        "question": "Based on the marked areas in the provided images, which option best describes the characteristics of the indicated regions?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_25.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_26.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "duodenum",
+            "B": "stomach",
+            "C": "esophagus",
+            "D": "adrenal gland",
+            "E": "gallbladder"
+        },
+        "category": "esophagus",
+        "modality": [
+            "MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_14",
+        "question": "Observe the images. Can you identify the organ in the highlighted area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_27.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_28.png"
+        ],
+        "gt_answer": "E",
+        "option": {
+            "A": "thalamus",
+            "B": "pituitary gland",
+            "C": "pharyngeal constrictor muscle",
+            "D": "lateral occipital cortex",
+            "E": "parotid gland"
+        },
+        "category": "parotid gland",
+        "modality": [
+            "T2 weighted MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_15",
+        "question": "Based on the images provided, which option best describes the organ or feature highlighted?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_29.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_30.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "spleen",
+            "B": "ovary",
+            "C": "inferior vena cava",
+            "D": "thyroid nodule"
+        },
+        "category": "inferior vena cava",
+        "modality": [
+            "UltraSound",
+            "MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_16",
+        "question": "Observe the images. Can you identify the organ in the highlighted area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_31.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_32.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "ovary",
+            "B": "gallbladder",
+            "C": "inferior vena cava",
+            "D": "spleen"
+        },
+        "category": "inferior vena cava",
+        "modality": [
+            "UltraSound",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_17",
+        "question": "Observe the images. Can you identify the organ or describe the condition in the highlighted area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_33.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_34.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "renal vein",
+            "B": "left anterior descending artery",
+            "C": "portal and splenic veins",
+            "D": "inferior vena cava"
+        },
+        "category": "inferior vena cava",
+        "modality": [
+            "MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_18",
+        "question": "Considering the organs visible in the images, which option corresponds most accurately?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_35.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_36.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "kidney",
+            "B": "aorta",
+            "C": "bladder",
+            "D": "inferior vena cava"
+        },
+        "category": "bladder",
+        "modality": [
+            "UltraSound",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_19",
+        "question": "Considering the organs visible in the images, which option corresponds most accurately?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_37.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_38.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "liver",
+            "B": "spleen",
+            "C": "uterus",
+            "D": "thyroid nodule"
+        },
+        "category": "uterus",
+        "modality": [
+            "UltraSound",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_20",
+        "question": "Identify the part shown in the images.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_39.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_40.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "promyelocyte",
+            "B": "monocyte",
+            "C": "segmented neutrophil",
+            "D": "metamyelocyte"
+        },
+        "category": "monocyte",
+        "modality": [
+            "Histopathology",
+            "Microscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_21",
+        "question": "View the images provided. Which option corresponds most accurately to the organ marked?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_41.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_42.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "renal vein",
+            "B": "coronary artery",
+            "C": "aorta",
+            "D": "renal artery"
+        },
+        "category": "aorta",
+        "modality": [
+            "CT",
+            "CTA"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_22",
+        "question": "Which of the following options best describes the marked area in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_43.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_44.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "ascending aorta",
+            "B": "iliac artery",
+            "C": "left circumflex artery",
+            "D": "lung vessel",
+            "E": "portal and splenic veins"
+        },
+        "category": "ascending aorta",
+        "modality": [
+            "MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_23",
+        "question": "Which of the following options best matches the marked organs in the provided images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_45.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_46.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "atrium",
+            "B": "myocardium",
+            "C": "pulmonary artery",
+            "D": "ventricle"
+        },
+        "category": "myocardium",
+        "modality": [
+            "MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_24",
+        "question": "View the images provided. Which organ is correctly identified in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_47.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_48.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "myocardium",
+            "B": "lower lobe",
+            "C": "ventricle",
+            "D": "spinal cord",
+            "E": "atrium"
+        },
+        "category": "myocardium",
+        "modality": [
+            "MRI",
+            "CMR"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_25",
+        "question": "Observe the images. Can you identify the organ or describe the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_49.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_50.png"
+        ],
+        "gt_answer": "E",
+        "option": {
+            "A": "esophagus",
+            "B": "upper lobe",
+            "C": "lower lobe",
+            "D": "chest wall",
+            "E": "myocardium"
+        },
+        "category": "myocardium",
+        "modality": [
+            "MRI",
+            "DE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_26",
+        "question": "Which of the following options best matches the marked organs in the provided images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_51.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_52.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "atrium",
+            "B": "myocardium",
+            "C": "pulmonary artery",
+            "D": "ventricle"
+        },
+        "category": "myocardium",
+        "modality": [
+            "MRI",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_27",
+        "question": "View the images provided. Which of the following options best describes the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_53.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_54.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "esophagus",
+            "B": "upper lobe",
+            "C": "middle lobe",
+            "D": "myocardium",
+            "E": "ventricle"
+        },
+        "category": "myocardium",
+        "modality": [
+            "CT",
+            "CMR"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_28",
+        "question": "Based on the marked areas in the provided images, what organ is likely being shown?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_55.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_56.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "esophagus",
+            "B": "upper lobe",
+            "C": "middle lobe",
+            "D": "myocardium",
+            "E": "ventricle"
+        },
+        "category": "myocardium",
+        "modality": [
+            "CT",
+            "DE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_29",
+        "question": "Observe the highlighted areas in the provided images. Can you identify the organ?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_57.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_58.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "atrium",
+            "B": "myocardium",
+            "C": "upper lobe",
+            "D": "lower lobe"
+        },
+        "category": "myocardium",
+        "modality": [
+            "CT",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_30",
+        "question": "View the images provided. What organ is displayed in the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_59.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_60.png"
+        ],
+        "gt_answer": "E",
+        "option": {
+            "A": "lower lobe",
+            "B": "upper lobe",
+            "C": "lung",
+            "D": "bronchus",
+            "E": "myocardium"
+        },
+        "category": "myocardium",
+        "modality": [
+            "CMR",
+            "DE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_31",
+        "question": "Based on the images provided, which option most accurately describes the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_61.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_62.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "bronchus",
+            "B": "chest wall",
+            "C": "breast",
+            "D": "myocardium",
+            "E": "spinal cord"
+        },
+        "category": "myocardium",
+        "modality": [
+            "CMR",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_32",
+        "question": "Examine the provided images. Can you identify the organ in the highlighted area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_63.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_64.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "myocardium",
+            "B": "bronchus",
+            "C": "upper lobe",
+            "D": "atrium",
+            "E": "trachea"
+        },
+        "category": "myocardium",
+        "modality": [
+            "DE MRI",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_33",
+        "question": "Which of the following options best describes the marked area or organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_65.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_66.png"
+        ],
+        "gt_answer": "E",
+        "option": {
+            "A": "ventricle",
+            "B": "atrium",
+            "C": "myocardium",
+            "D": "trachea",
+            "E": "pulmonary artery"
+        },
+        "category": "pulmonary artery",
+        "modality": [
+            "CT",
+            "MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_34",
+        "question": "View the images provided. Which of the following options best describes the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_67.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_68.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "trachea",
+            "B": "atrium",
+            "C": "spinal cord",
+            "D": "middle lobe"
+        },
+        "category": "atrium",
+        "modality": [
+            "CT",
+            "MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_35",
+        "question": "View the images provided. Which of the following options best describes the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_69.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_70.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "trachea",
+            "B": "atrium",
+            "C": "spinal cord",
+            "D": "middle lobe"
+        },
+        "category": "atrium",
+        "modality": [
+            "CT",
+            "LGE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_36",
+        "question": "Which of the following options best matches the highlighted organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_71.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_72.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "atrium",
+            "B": "myocardium",
+            "C": "bronchus",
+            "D": "upper lobe"
+        },
+        "category": "atrium",
+        "modality": [
+            "CT",
+            "CTA"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_37",
+        "question": "Which of the following options best matches the marked organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_73.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_74.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "atrium",
+            "B": "breast",
+            "C": "trachea",
+            "D": "lung",
+            "E": "airway"
+        },
+        "category": "atrium",
+        "modality": [
+            "MRI",
+            "CTA"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_38",
+        "question": "Given the images provided, which option most accurately describes the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_75.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_76.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "chest wall",
+            "B": "heart",
+            "C": "bronchus",
+            "D": "pulmonary artery"
+        },
+        "category": "heart",
+        "modality": [
+            "CT",
+            "X-ray"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_39",
+        "question": "Which of the following options best matches the highlighted organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_77.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_78.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "ventricle",
+            "B": "upper lobe",
+            "C": "spinal cord",
+            "D": "myocardium"
+        },
+        "category": "ventricle",
+        "modality": [
+            "MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_40",
+        "question": "Looking at the marked areas in the provided images, which option would be the most organ-like?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_79.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_80.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "middle lobe",
+            "B": "chest wall",
+            "C": "ventricle",
+            "D": "myocardium"
+        },
+        "category": "ventricle",
+        "modality": [
+            "MRI",
+            "UltraSound"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_41",
+        "question": "Based on the organs visible in the marked areas of the images, which option corresponds most accurately?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_81.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_82.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "chest wall",
+            "B": "upper lobe",
+            "C": "airway",
+            "D": "ventricle"
+        },
+        "category": "ventricle",
+        "modality": [
+            "MRI",
+            "CMR"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_42",
+        "question": "Based on the marked areas in the provided images, which option corresponds most accurately to the organ?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_83.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_84.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "middle lobe",
+            "B": "chest wall",
+            "C": "ventricle",
+            "D": "myocardium"
+        },
+        "category": "ventricle",
+        "modality": [
+            "MRI",
+            "DE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_43",
+        "question": "Which of the following options best describes the marked area in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_85.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_86.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "trachea",
+            "B": "ventricle",
+            "C": "lung",
+            "D": "lower lobe",
+            "E": "spinal cord"
+        },
+        "category": "ventricle",
+        "modality": [
+            "MRI",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_44",
+        "question": "Which of the following options best matches the marked areas in the provided images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_87.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_88.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "ventricle",
+            "B": "upper lobe",
+            "C": "airway",
+            "D": "lower lobe"
+        },
+        "category": "ventricle",
+        "modality": [
+            "CT",
+            "UltraSound"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_45",
+        "question": "Observe the images. Can you identify the organ in the highlighted area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_89.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_90.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "ventricle",
+            "B": "upper lobe",
+            "C": "pulmonary artery",
+            "D": "thoracic cavity"
+        },
+        "category": "ventricle",
+        "modality": [
+            "CT",
+            "CMR"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_46",
+        "question": "Which of the following options best matches the marked organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_91.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_92.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "breast",
+            "B": "bronchus",
+            "C": "lung",
+            "D": "ventricle"
+        },
+        "category": "ventricle",
+        "modality": [
+            "CT",
+            "DE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_47",
+        "question": "Which of the following options best matches the marked organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_93.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_94.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "upper lobe",
+            "B": "chest wall",
+            "C": "myocardium",
+            "D": "ventricle",
+            "E": "breast"
+        },
+        "category": "ventricle",
+        "modality": [
+            "CT",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_48",
+        "question": "Observe the images. Can you identify the highlighted organ?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_95.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_96.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "ventricle",
+            "B": "esophagus",
+            "C": "thoracic cavity",
+            "D": "lower lobe"
+        },
+        "category": "ventricle",
+        "modality": [
+            "CMR",
+            "DE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_49",
+        "question": "Based on the marked areas in the provided images, which option best describes the characteristics of the indicated region?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_97.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_98.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "esophagus",
+            "B": "ventricle",
+            "C": "bronchus",
+            "D": "chest wall"
+        },
+        "category": "ventricle",
+        "modality": [
+            "CMR",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_50",
+        "question": "Which of the following options corresponds most accurately to the marked organ in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_99.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_100.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "esophagus",
+            "B": "airway",
+            "C": "trachea",
+            "D": "ventricle",
+            "E": "spinal cord"
+        },
+        "category": "ventricle",
+        "modality": [
+            "DE MRI",
+            "T2 MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_51",
+        "question": "View the marked areas in the provided images. Which option best describes the organ shown?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_101.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_102.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "testicle",
+            "B": "prostate",
+            "C": "duodenum",
+            "D": "colon",
+            "E": "bladder"
+        },
+        "category": "prostate",
+        "modality": [
+            "DCE MRI",
+            "ADC MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_52",
+        "question": "Observe the highlighted areas in the provided images. Can you identify the organ?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_103.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_104.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "duodenum",
+            "B": "prostate",
+            "C": "rectum",
+            "D": "colon"
+        },
+        "category": "prostate",
+        "modality": [
+            "DCE MRI",
+            "T2 weighted MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_53",
+        "question": "Observe the organs highlighted in the images. Which option corresponds most accurately?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_105.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_106.png"
+        ],
+        "gt_answer": "E",
+        "option": {
+            "A": "colon",
+            "B": "testicle",
+            "C": "rectum",
+            "D": "femoral head",
+            "E": "prostate"
+        },
+        "category": "prostate",
+        "modality": [
+            "DCE MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_54",
+        "question": "Based on the marked areas in the provided images, which option corresponds most accurately to the organ shown?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_107.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_108.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "prostate",
+            "B": "uterus",
+            "C": "testicle",
+            "D": "colon"
+        },
+        "category": "prostate",
+        "modality": [
+            "ADC MRI",
+            "T2 weighted MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_55",
+        "question": "Which of the following options best matches the marked organ in the provided images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_109.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_110.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "femoral head",
+            "B": "prostate",
+            "C": "colon",
+            "D": "duodenum"
+        },
+        "category": "prostate",
+        "modality": [
+            "ADC MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_56",
+        "question": "Observe the images. Can you identify the organ or describe the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_111.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_112.png"
+        ],
+        "gt_answer": "C",
+        "option": {
+            "A": "colon",
+            "B": "bladder",
+            "C": "prostate",
+            "D": "duodenum",
+            "E": "testicle"
+        },
+        "category": "prostate",
+        "modality": [
+            "T2 weighted MRI",
+            "CT"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_57",
+        "question": "What is visible in the highlighted areas of the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_113.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_114.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "retinal pigmented epithelium cell",
+            "B": "cytoplasm",
+            "C": "epithelial cell",
+            "D": "photoreceptor cell"
+        },
+        "category": "photoreceptor cell",
+        "modality": [
+            "OCT",
+            "Adaptive Optics Ophthalmoscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_58",
+        "question": "Identify the option that best describes the marked area in the images.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_115.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_116.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "spleen",
+            "B": "gallbladder",
+            "C": "esophagus",
+            "D": "kidney",
+            "E": "liver"
+        },
+        "category": "spleen",
+        "modality": [
+            "CT",
+            "UltraSound"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_59",
+        "question": "Which of the following options best matches the content of the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_117.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_118.png"
+        ],
+        "gt_answer": "B",
+        "option": {
+            "A": "gender: male",
+            "B": "gender: female"
+        },
+        "category": "gender: female",
+        "modality": [
+            "X-ray",
+            "Infrared Reflectance (IR) imaging"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_60",
+        "question": "Please determine which option best describes the marked area in the images.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_119.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_120.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "iliac vein",
+            "B": "iliac artery",
+            "C": "ascending aorta",
+            "D": "retinal vessel"
+        },
+        "category": "retinal vessel",
+        "modality": [
+            "OCT",
+            "Fundus Photography"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_61",
+        "question": "Identify the option that the content of the images corresponds to.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_121.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_122.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "lymphocyte",
+            "B": "proerythroblast",
+            "C": "myelocyte",
+            "D": "not identifiable"
+        },
+        "category": "lymphocyte",
+        "modality": [
+            "Histopathology",
+            "Microscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_62",
+        "question": "Please select the option that best matches the content displayed in the images.<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_123.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_124.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "eosinophil",
+            "B": "plasma cell",
+            "C": "other cell",
+            "D": "erythroblast"
+        },
+        "category": "eosinophil",
+        "modality": [
+            "Histopathology",
+            "Microscopy"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_63",
+        "question": "These are MRI images. Which of the following options is the most appropriate to describe the marked area?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_125.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_126.png"
+        ],
+        "gt_answer": "D",
+        "option": {
+            "A": "myocardium",
+            "B": "bronchus",
+            "C": "airway",
+            "D": "atrium"
+        },
+        "category": "atrium",
+        "modality": [
+            "MRI",
+            "LGE MRI"
+        ]
+    },
+    {
+        "id": "organ_recognition-multi_modal-multi_modal_organ_64",
+        "question": "Which of the following options best describes the marked area in the images?<image><image>",
+        "images": [
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_127.png",
+            "joint_reasoning/organ_recognition/multi_modal/images/multi_modal_organ_128.png"
+        ],
+        "gt_answer": "A",
+        "option": {
+            "A": "cell nucleus",
+            "B": "erythrocytes",
+            "C": "retinal pigmented epithelium cell",
+            "D": "dead cell"
+        },
+        "category": "cell nucleus",
+        "modality": [
+            "Histopathology",
+            "Microscopy"
+        ]
+    }
+]

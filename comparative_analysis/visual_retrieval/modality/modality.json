@@ -1,0 +1,1427 @@
+[
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_1",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_1.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_2.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_3.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_4.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_5.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_2",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_6.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_7.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_8.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_9.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_10.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_3",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_11.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_12.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_13.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_14.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_15.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_4",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_16.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_17.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_18.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_19.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_20.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_5",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_21.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_22.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_23.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_24.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_25.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_6",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_26.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_27.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_28.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_29.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_30.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_7",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_31.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_32.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_33.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_34.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_35.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_8",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_36.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_37.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_38.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_39.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_40.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_9",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_41.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_42.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_43.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_44.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_45.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_10",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_46.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_47.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_48.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_49.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_50.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_11",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_51.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_52.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_53.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_54.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_55.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_12",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_56.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_57.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_58.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_59.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_60.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_13",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_61.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_62.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_63.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_64.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_65.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_14",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_66.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_67.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_68.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_69.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_70.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_15",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_71.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_72.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_73.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_74.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_75.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_16",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_76.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_77.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_78.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_79.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_80.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_17",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_81.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_82.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_83.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_84.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_85.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_18",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_86.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_87.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_88.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_89.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_90.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_19",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_91.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_92.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_93.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_94.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_95.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_20",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_96.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_97.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_98.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_99.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_100.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_21",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_101.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_102.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_103.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_104.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_105.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_22",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_106.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_107.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_108.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_109.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_110.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_23",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_111.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_112.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_113.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_114.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_115.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_24",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_116.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_117.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_118.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_119.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_120.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_25",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_121.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_122.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_123.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_124.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_125.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_26",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_126.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_127.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_128.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_129.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_130.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_27",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_131.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_132.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_133.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_134.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_135.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_28",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_136.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_137.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_138.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_139.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_140.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_29",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_141.jpeg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_142.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_143.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_144.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_145.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_30",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_146.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_147.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_148.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_149.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_150.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_31",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_151.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_152.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_153.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_154.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_155.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_32",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_156.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_157.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_158.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_159.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_160.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_33",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_161.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_162.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_163.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_164.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_165.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_34",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_166.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_167.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_168.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_169.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_170.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_35",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_171.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_172.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_173.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_174.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_175.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_36",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_176.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_177.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_178.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_179.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_180.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_37",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_181.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_182.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_183.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_184.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_185.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_38",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_186.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_187.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_188.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_189.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_190.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_39",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_191.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_192.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_193.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_194.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_195.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_40",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_196.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_197.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_198.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_199.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_200.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_41",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_201.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_202.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_203.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_204.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_205.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_42",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_206.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_207.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_208.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_209.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_210.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_43",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_211.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_212.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_213.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_214.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_215.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_44",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_216.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_217.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_218.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_219.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_220.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_45",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_221.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_222.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_223.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_224.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_225.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_46",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_226.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_227.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_228.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_229.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_230.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_47",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_231.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_232.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_233.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_234.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_235.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_48",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_236.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_237.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_238.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_239.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_240.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_49",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_241.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_242.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_243.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_244.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_245.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_50",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_246.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_247.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_248.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_249.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_250.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_51",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_251.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_252.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_253.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_254.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_255.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_52",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_256.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_257.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_258.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_259.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_260.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_53",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_261.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_262.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_263.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_264.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_265.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_54",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_266.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_267.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_268.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_269.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_270.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_55",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_271.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_272.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_273.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_274.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_275.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_56",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_276.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_277.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_278.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_279.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_280.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_57",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_281.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_282.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_283.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_284.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_285.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_58",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_286.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_287.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_288.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_289.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_290.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_59",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_291.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_292.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_293.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_294.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_295.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_60",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_296.jpg",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_297.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_298.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_299.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_300.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_61",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_301.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_302.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_303.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_304.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_305.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_62",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_306.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_307.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_308.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_309.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_310.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_63",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_311.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_312.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_313.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_314.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_315.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_64",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_316.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_317.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_318.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_319.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_320.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_65",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_321.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_322.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_323.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_324.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_325.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_66",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_326.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_327.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_328.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_329.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_330.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_67",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "D",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_331.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_332.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_333.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_334.jpg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_335.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_68",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_336.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_337.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_338.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_339.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_340.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_69",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_341.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_342.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_343.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_344.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_345.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_70",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_346.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_347.jpeg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_348.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_349.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_350.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_71",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "C",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_351.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_352.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_353.jpg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_354.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_355.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_72",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_356.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_357.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_358.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_359.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_360.jpg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_73",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_361.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_362.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_363.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_364.jpeg",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_365.png"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_74",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "B",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_366.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_367.jpg",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_368.png",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_369.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_370.jpeg"
+        }
+    },
+    {
+        "id": "comparative_analysis-visual_retrieval-modality_75",
+        "type": "modality",
+        "question": "Which image has the same modality as the sample image？<image0>",
+        "options": {
+            "A": "<image1>",
+            "B": "<image2>",
+            "C": "<image3>",
+            "D": "<image4>"
+        },
+        "gt_answer": "A",
+        "images": {
+            "image0": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_371.png",
+            "image1": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_372.png",
+            "image2": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_373.jpeg",
+            "image3": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_374.png",
+            "image4": "comparative_analysis/visual_retrieval/modality/images/visual_retrieval_modality_375.jpeg"
+        }
+    }
+]

@@ -1,0 +1,1084 @@
+[
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_1",
+        "question": "Examine the images provided. What is the likely abnormal condition shown in the highlighted area? <image> <image>",
+        "options": {
+            "A": "pleural effusion",
+            "B": "lung nodule",
+            "C": "breast tumor",
+            "D": "liver tumor",
+            "E": "colon cancer primaries"
+        },
+        "category": "liver tumor",
+        "modality": [
+            "T1 weighted MRI",
+            "CT"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_1.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_2.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_2",
+        "question": "This is an images. What is the most likely abnormality demonstrated in the highlighted area? <image> <image>",
+        "options": {
+            "A": "liver cyst",
+            "B": "breast tumor",
+            "C": "lung cancer",
+            "D": "lung tumor"
+        },
+        "category": "breast tumor",
+        "modality": [
+            "DCE MRI",
+            "Histopathology"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_3.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_4.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_3",
+        "question": "View the provided images. What is the most appropriate description for the marked area? <image> <image>",
+        "options": {
+            "A": "liver tumor",
+            "B": "pancreatic tumor mass",
+            "C": "multiple sclerosis",
+            "D": "enhancing tumor"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "PD MRI",
+            "T1 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_5.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_6.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_4",
+        "question": "View the images provided. What is the likely abnormal condition in the marked area? <image> <image>",
+        "options": {
+            "A": "ischemic stroke",
+            "B": "prostate tumor",
+            "C": "lung adenocarcinoma",
+            "D": "myocardial edema",
+            "E": "pleural effusion"
+        },
+        "category": "pleural effusion",
+        "modality": [
+            "CT",
+            "X-ray"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_7.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_8.png"
+        ],
+        "gt_answer": "E"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_5",
+        "question": "Observe the images. What is the most likely condition represented by the highlighted region? <image> <image>",
+        "options": {
+            "A": "prostate cancer",
+            "B": "buckle rib fracture",
+            "C": "displaced rib fracture",
+            "D": "enhancing tumor",
+            "E": "pulmonary embolism"
+        },
+        "category": "prostate cancer",
+        "modality": [
+            "T2 weighted MRI",
+            "MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_9.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_10.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_6",
+        "question": "Observe the images. What is the most likely abnormality demonstrated in the marked area? <image> <image>",
+        "options": {
+            "A": "pulmonary embolism",
+            "B": "lung nodule",
+            "C": "liver tumor",
+            "D": "glioblastoma",
+            "E": "peritumoral edema"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "DWI MRI",
+            "ASL MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_11.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_12.png"
+        ],
+        "gt_answer": "E"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_7",
+        "question": "View the images provided. What is the likely abnormal condition demonstrated in the marked area? <image> <image>",
+        "options": {
+            "A": "breast tumor",
+            "B": "brain aneurysm",
+            "C": "peritumoral edema",
+            "D": "segmental rib fracture",
+            "E": "pleural effusion"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "DWI MRI",
+            "DTI MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_13.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_14.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_8",
+        "question": "Given these are MRI images, which option would be the most appropriate to describe the marked area? <image> <image>",
+        "options": {
+            "A": "breast tumor",
+            "B": "brain aneurysm",
+            "C": "peritumoral edema",
+            "D": "segmental rib fracture",
+            "E": "pleural effusion"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "DWI MRI",
+            "T2 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_15.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_16.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_9",
+        "question": "Which of the following options best describes the condition of the marked area shown in the images? <image> <image>",
+        "options": {
+            "A": "pulmonary embolism",
+            "B": "lung nodule",
+            "C": "liver tumor",
+            "D": "glioblastoma",
+            "E": "peritumoral edema"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "DWI MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_17.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_18.png"
+        ],
+        "gt_answer": "E"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_10",
+        "question": "What is the most likely abnormality corresponding to the highlighted symptoms shown in the images? <image> <image>",
+        "options": {
+            "A": "peritumoral edema",
+            "B": "lung nodule",
+            "C": "colon cancer primaries",
+            "D": "kidney tumor",
+            "E": "lung tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "ASL MRI",
+            "DTI MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_19.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_20.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_11",
+        "question": "What is the most fitting condition for the marked area in the provided images? <image> <image>",
+        "options": {
+            "A": "myocardial edema",
+            "B": "atrial scar",
+            "C": "peritumoral edema",
+            "D": "adrenal tumor",
+            "E": "lung tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "DTI MRI",
+            "T2 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_21.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_22.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_12",
+        "question": "Which of the following options best matches the symptoms of the marked regions shown in the images? <image> <image>",
+        "options": {
+            "A": "peritumoral edema",
+            "B": "brain aneurysm",
+            "C": "cerebral microbleed",
+            "D": "glioblastoma",
+            "E": "liver tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "DTI MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_23.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_24.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_13",
+        "question": "Which of the following options best describes the condition of the marked area shown in the images? <image> <image>",
+        "options": {
+            "A": "prostate tumor",
+            "B": "atrial scar",
+            "C": "peritumoral edema",
+            "D": "COVID-19 lesion"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T2 MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_25.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_26.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_14",
+        "question": "Considering the symptoms visible in the highlighted areas of the images, which option corresponds most accurately? <image> <image>",
+        "options": {
+            "A": "lung infections",
+            "B": "peritumoral edema",
+            "C": "pulmonary embolism",
+            "D": "liver cyst",
+            "E": "neuroblastoma"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T2 MRI",
+            "T1ce MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_27.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_28.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_15",
+        "question": "Given these images, which option would be the most appropriate to describe the marked area? <image> <image>",
+        "options": {
+            "A": "breast tumor",
+            "B": "peritumoral edema",
+            "C": "segmental rib fracture",
+            "D": "intracranial hemorrhage",
+            "E": "nasopharyngeal cancer"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T2 MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_29.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_30.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_16",
+        "question": "Which of the following options best corresponds to the symptoms visible in the highlighted areas of the images? <image> <image>",
+        "options": {
+            "A": "lung infections",
+            "B": "peritumoral edema",
+            "C": "pulmonary embolism",
+            "D": "liver cyst",
+            "E": "neuroblastoma"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T2 MRI",
+            "T1Gd MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_31.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_32.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_17",
+        "question": "Examine the images. What is the likely abnormal condition shown in the highlighted area? <image> <image>",
+        "options": {
+            "A": "brain aneurysm",
+            "B": "neuroblastoma",
+            "C": "peritumoral edema",
+            "D": "kidney tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "FLAIR MRI",
+            "T1 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_33.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_34.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_18",
+        "question": "Examine the images. What is the likely abnormal condition shown in the highlighted area? <image> <image>",
+        "options": {
+            "A": "brain aneurysm",
+            "B": "neuroblastoma",
+            "C": "peritumoral edema",
+            "D": "kidney tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "FLAIR MRI",
+            "T1ce MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_35.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_36.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_19",
+        "question": "Which of the following options best matches the symptoms of the marked regions shown in the images? <image> <image>",
+        "options": {
+            "A": "peritumoral edema",
+            "B": "prostate tumor",
+            "C": "pulmonary embolism",
+            "D": "displaced rib fracture"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "FLAIR MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_37.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_38.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_20",
+        "question": "Examine the images. What is the likely abnormality indicated in the highlighted region? <image> <image>",
+        "options": {
+            "A": "lung cancer",
+            "B": "breast tumor",
+            "C": "kidney cyst",
+            "D": "displaced rib fracture",
+            "E": "peritumoral edema"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "FLAIR MRI",
+            "T1Gd MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_39.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_40.png"
+        ],
+        "gt_answer": "E"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_21",
+        "question": "View the images provided. What is the likely abnormal condition demonstrated in the marked area? <image> <image>",
+        "options": {
+            "A": "hypoxic ischemic encephalopathy",
+            "B": "peritumoral edema",
+            "C": "cerebral microbleed",
+            "D": "prostate tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T1 MRI",
+            "T1ce MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_41.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_42.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_22",
+        "question": "Which of the following options best describes the marked area shown in the images? <image> <image>",
+        "options": {
+            "A": "brain aneurysm",
+            "B": "prostate tumor",
+            "C": "peritumoral edema",
+            "D": "breast tumor"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T1 MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_43.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_44.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_23",
+        "question": "These are MRI images. Which of the following options is the most appropriate to demonstrate the marked area? <image> <image>",
+        "options": {
+            "A": "prostate tumor",
+            "B": "peritumoral edema",
+            "C": "lung infections",
+            "D": "glioblastoma",
+            "E": "enlarged perivascular space"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T1ce MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_45.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_46.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_24",
+        "question": "Considering the symptoms and abnormalities visible in the highlighted areas of the images, which option corresponds most accurately? <image> <image>",
+        "options": {
+            "A": "enlarged perivascular space",
+            "B": "glioblastoma",
+            "C": "hypoxic ischemic encephalopathy",
+            "D": "prostate tumor"
+        },
+        "category": "glioblastoma",
+        "modality": [
+            "T2 weighted MRI",
+            "ADC MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_47.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_48.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_25",
+        "question": "What is the most likely abnormality corresponding to the highlighted symptoms shown in the images? <image> <image>",
+        "options": {
+            "A": "glioblastoma",
+            "B": "atrial scar",
+            "C": "myocardial edema",
+            "D": "prostate tumor",
+            "E": "lung infections"
+        },
+        "category": "glioblastoma",
+        "modality": [
+            "T2 weighted MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_49.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_50.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_26",
+        "question": "Given the images, which option corresponds most accurately to the marked area? <image> <image>",
+        "options": {
+            "A": "displaced rib fracture",
+            "B": "glioblastoma",
+            "C": "pleural effusion",
+            "D": "diabetic macular edema"
+        },
+        "category": "glioblastoma",
+        "modality": [
+            "ADC MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_51.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_52.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_27",
+        "question": "Which of the following options best describes the characteristics of the marked area shown in the images? <image> <image>",
+        "options": {
+            "A": "pulmonary embolism",
+            "B": "peritumoral edema",
+            "C": "intracranial hemorrhage",
+            "D": "glioblastoma"
+        },
+        "category": "glioblastoma",
+        "modality": [
+            "ADC MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_53.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_54.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_28",
+        "question": "Given these are images from an MRI, which option is most appropriate for describing the marked area? <image> <image>",
+        "options": {
+            "A": "kidney cyst",
+            "B": "myocardial scars",
+            "C": "buckle rib fracture",
+            "D": "prostate tumor"
+        },
+        "category": "prostate tumor",
+        "modality": [
+            "T2 weighted MRI",
+            "ADC MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_55.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_56.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_29",
+        "question": "What is the likely abnormal condition demonstrated in the marked areas of the provided images? <image> <image>",
+        "options": {
+            "A": "liver tumor",
+            "B": "pancreatic tumor mass",
+            "C": "multiple sclerosis",
+            "D": "enhancing tumor"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "PD MRI",
+            "T2 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_57.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_58.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_30",
+        "question": "Which option best corresponds to the symptoms visible in the marked regions of the images? <image> <image>",
+        "options": {
+            "A": "edema",
+            "B": "liver tumor",
+            "C": "enhancing tumor",
+            "D": "multiple sclerosis"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "PD MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_59.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_60.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_31",
+        "question": "Given these images, what is the most likely abnormality in the highlighted areas? <image> <image>",
+        "options": {
+            "A": "edema",
+            "B": "pancreatic tumor mass",
+            "C": "enhancing tumor",
+            "D": "multiple sclerosis",
+            "E": "liver tumor"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "PD MRI",
+            "MP-RAGE MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_61.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_62.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_32",
+        "question": "Given these are MRI images, which option best describes the marked area? <image> <image>",
+        "options": {
+            "A": "edema",
+            "B": "pancreatic tumor mass",
+            "C": "enhancing tumor",
+            "D": "multiple sclerosis",
+            "E": "liver tumor"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "PD MRI",
+            "Gadolinium MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_63.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_64.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_33",
+        "question": "Which of the following options best matches the symptoms of the marked regions shown in the images? <image> <image>",
+        "options": {
+            "A": "lung infections",
+            "B": "prostate cancer",
+            "C": "intracranial hemorrhage",
+            "D": "multiple sclerosis"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "T2 MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_65.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_66.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_34",
+        "question": "Observe the images. What is the most likely condition shown in the highlighted area? <image> <image>",
+        "options": {
+            "A": "nasopharyngeal cancer",
+            "B": "enlarged perivascular space",
+            "C": "liver cyst",
+            "D": "multiple sclerosis",
+            "E": "glioblastoma"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "T2 MRI",
+            "MP-RAGE MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_67.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_68.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_35",
+        "question": "Which of the following options best matches the symptoms of the highlighted areas shown in the images? <image> <image>",
+        "options": {
+            "A": "lung infections",
+            "B": "prostate cancer",
+            "C": "intracranial hemorrhage",
+            "D": "multiple sclerosis"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "T2 MRI",
+            "Gadolinium MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_69.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_70.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_36",
+        "question": "Examine the images provided. What is the most likely abnormality shown in the marked area? <image> <image>",
+        "options": {
+            "A": "ischemic stroke",
+            "B": "pancreatic tumor mass",
+            "C": "edema",
+            "D": "multiple sclerosis"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "FLAIR MRI",
+            "MP-RAGE MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_71.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_72.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_37",
+        "question": "Observe the images. What is the most likely abnormality in the highlighted area? <image> <image>",
+        "options": {
+            "A": "cerebral microbleed",
+            "B": "non-displaced rib fracture",
+            "C": "pleural effusion",
+            "D": "multiple sclerosis",
+            "E": "liver cyst"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "FLAIR MRI",
+            "T1 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_73.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_74.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_38",
+        "question": "Given these images, which option would be the most appropriate to describe the marked area? <image> <image>",
+        "options": {
+            "A": "buckle rib fracture",
+            "B": "multiple sclerosis",
+            "C": "pancreatic tumor mass",
+            "D": "ischemic stroke",
+            "E": "cerebral microbleed"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "FLAIR MRI",
+            "Gadolinium MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_75.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_76.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_39",
+        "question": "What is the most likely abnormality shown in the highlighted areas of these images? <image> <image>",
+        "options": {
+            "A": "COVID-19 lesion",
+            "B": "segmental rib fracture",
+            "C": "multiple sclerosis",
+            "D": "hypoxic ischemic encephalopathy"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "MP-RAGE MRI",
+            "T1 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_77.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_78.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_40",
+        "question": "Examine the images. What is the most likely abnormal condition shown in the highlighted area? <image> <image>",
+        "options": {
+            "A": "multiple sclerosis",
+            "B": "pleural effusion",
+            "C": "colon cancer primaries",
+            "D": "peritumoral edema",
+            "E": "brain aneurysm"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "MP-RAGE MRI",
+            "Gadolinium MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_79.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_80.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_41",
+        "question": "Considering the symptoms visible in the marked regions of the images, which option corresponds most accurately? <image> <image>",
+        "options": {
+            "A": "atrial scar",
+            "B": "liver cyst",
+            "C": "colon cancer primaries",
+            "D": "myocardial edema",
+            "E": "segmental rib fracture"
+        },
+        "category": "myocardial edema",
+        "modality": [
+            "DE MRI",
+            "MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_81.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_82.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_42",
+        "question": "Observe the images. What is the most likely abnormality demonstrated in the marked area? <image> <image>",
+        "options": {
+            "A": "myocardial edema",
+            "B": "lung cancer",
+            "C": "non-displaced rib fracture",
+            "D": "multiple sclerosis",
+            "E": "kidney cyst"
+        },
+        "category": "myocardial edema",
+        "modality": [
+            "DE MRI",
+            "T2 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_83.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_84.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_43",
+        "question": "Which of the following options best describes the condition of the marked area shown in the images? <image> <image>",
+        "options": {
+            "A": "kidney tumor",
+            "B": "peritumoral edema",
+            "C": "myocardial edema",
+            "D": "enhancing tumor"
+        },
+        "category": "myocardial edema",
+        "modality": [
+            "MRI",
+            "T2 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_85.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_86.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_44",
+        "question": "Observe the images. What is the most likely condition indicated by the symptoms shown? <image> <image>",
+        "options": {
+            "A": "drusen",
+            "B": "age-related macular degeneration",
+            "C": "macular hole",
+            "D": "diabetic retinopathy"
+        },
+        "category": "macular hole",
+        "modality": [
+            "OCT",
+            "Fundus Photography"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_87.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_88.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_45",
+        "question": "View the images provided. Which option corresponds most accurately to the likely abnormal condition demonstrated? <image> <image>",
+        "options": {
+            "A": "no diabetic retinopathy",
+            "B": "diabetic retinopathy"
+        },
+        "category": "diabetic retinopathy",
+        "modality": [
+            "Fundus Photography",
+            "OCT"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_89.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_90.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_46",
+        "question": "View the images provided. What is the likely abnormal condition matching the symptoms shown? <image> <image>",
+        "options": {
+            "A": "macular hole",
+            "B": "choroidal neovascularization",
+            "C": "age-related macular degeneration",
+            "D": "drusen"
+        },
+        "category": "age-related macular degeneration",
+        "modality": [
+            "OCT",
+            "Fundus Photography"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_91.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_92.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_47",
+        "question": "Considering the symptoms visible in the images, which option corresponds most accurately? <image> <image>",
+        "options": {
+            "A": "central serous retinopathy",
+            "B": "healthy",
+            "C": "macular edema",
+            "D": "glaucoma"
+        },
+        "category": "central serous retinopathy",
+        "modality": [
+            "Fundus Photography",
+            "OCT"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_93.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_94.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_48",
+        "question": "Look at the images and select the description that best matches the level of severity shown. <image> <image>",
+        "options": {
+            "A": "benign tumor",
+            "B": "carcinoma in situ",
+            "C": "invasive carcinoma",
+            "D": "normal breast histology image"
+        },
+        "category": "carcinoma in situ",
+        "modality": [
+            "Microscopy",
+            "Histopathology"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_95.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_96.png"
+        ],
+        "gt_answer": "B"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_49",
+        "question": "Given these images, which option best describes the marked area? <image> <image>",
+        "options": {
+            "A": "peritumoral edema",
+            "B": "non-displaced rib fracture",
+            "C": "myocardial edema",
+            "D": "kidney tumor",
+            "E": "nasopharyngeal cancer"
+        },
+        "category": "peritumoral edema",
+        "modality": [
+            "T2 MRI",
+            "T1 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_97.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_98.png"
+        ],
+        "gt_answer": "A"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_50",
+        "question": "Which of the following options best describes the characteristics of the marked area shown in the images? <image> <image>",
+        "options": {
+            "A": "pleural effusion",
+            "B": "neuroblastoma",
+            "C": "glioblastoma",
+            "D": "enhancing tumor"
+        },
+        "category": "glioblastoma",
+        "modality": [
+            "T2 weighted MRI",
+            "FLAIR MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_99.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_100.png"
+        ],
+        "gt_answer": "C"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_51",
+        "question": "Given these images, which option would be the most appropriate to describe the marked area? <image> <image>",
+        "options": {
+            "A": "breast tumor",
+            "B": "adrenal tumor",
+            "C": "non-displaced rib fracture",
+            "D": "glioblastoma"
+        },
+        "category": "glioblastoma",
+        "modality": [
+            "FLAIR MRI",
+            "T1 weighted MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_101.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_102.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_52",
+        "question": "Which option corresponds most accurately to the symptoms or condition demonstrated in the marked areas of the images? <image> <image>",
+        "options": {
+            "A": "kidney tumor",
+            "B": "enhancing tumor",
+            "C": "lung nodule",
+            "D": "multiple sclerosis",
+            "E": "lung cancer"
+        },
+        "category": "multiple sclerosis",
+        "modality": [
+            "T2 MRI",
+            "T1 MRI"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_103.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_104.png"
+        ],
+        "gt_answer": "D"
+    },
+    {
+        "id": "disease_detection-multi_modal-multi_modal_disease_53",
+        "question": "Observe the images. What is the most likely abnormality and its severity level shown? <image> <image>",
+        "options": {
+            "A": "normal",
+            "B": "acute lymphoblastic leukemia"
+        },
+        "category": "acute lymphoblastic leukemia",
+        "modality": [
+            "Histopathology",
+            "Microscopy"
+        ],
+        "images": [
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_105.png",
+            "joint_reasoning/disease_detection/multi_modal/images/multi_modal_disease_106.png"
+        ],
+        "gt_answer": "B"
+    }
+]
